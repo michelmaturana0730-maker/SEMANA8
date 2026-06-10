@@ -1,0 +1,1 @@
+uname -a muestra información del sistema operativo. whoami muestra el usuario actual.

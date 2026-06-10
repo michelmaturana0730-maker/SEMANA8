@@ -1,0 +1,5 @@
+1. No exponer datos personales
+2. Usar contraseñas seguras
+3. HTTPS obligatorio
+4. Registrar accesos
+5. Control de permisos
